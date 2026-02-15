@@ -12,7 +12,6 @@ Goal: Rewire your brain into algorithmic mode.
 * Immutability cost
 
 ### Problems:
-
 * Two Sum
 * Valid Anagram
 * Longest Substring Without Repeating Characters
